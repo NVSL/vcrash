@@ -36,7 +36,7 @@ $ vcrash
 usage: vcrash [rand max] [prog] [args ...]
 ```
 
-* `rand max`: maximum waiting time before the crash
+* `rand max`: maximum waiting time before the crash in nanoseconds
 * `prog`: path to the executable
 * `args`: arguments to be passed to the app
 
